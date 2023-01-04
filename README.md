@@ -4,7 +4,7 @@
 
 ### 主要功能:將有換行的字串轉換為('a','b','c')並且自動複製  
 
-![Animation](https://user-images.githubusercontent.com/44420123/209094813-cb28491c-dba7-46b4-9532-4d85a5cdbe43.gif)
+![Animation](https://user-images.githubusercontent.com/44420123/210502254-a211970e-d8a3-47ad-b7fd-7c2757cb06ec.gif)
  
 上面範例資料為:  
 `KLPS111-008621`  
